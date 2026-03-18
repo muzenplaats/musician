@@ -35,7 +35,8 @@ leading to the generation in *musician* grammar. The phrase token node is tempor
 (Scaffolding..) Codename: *encourgement*
 
 ## Contribution
-It would be pleasure for whoms interests to participate this without limitation.
+It would be pleasure for whoms interest to participate this without limitation.
+Publish an issue, send a pull request or by all means and you are in.
 
 ## License
 The MIT License
