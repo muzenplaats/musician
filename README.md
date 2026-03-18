@@ -1,4 +1,4 @@
-# Musician (v0.1.0)
+# Musician (v0.1.1)
 A webapp with musical ingredients for music lovers *(to be changed later)*
 
 ## Slogant
@@ -23,7 +23,7 @@ became a burden to be beatifully performed in *Musician*.
 They are of course the building blocks but how to do it neat is the main interest here.
 The design patterns as in those keywords could be valued.
 For qualification of the beauty, the nomenclature in terms of *token node* shall be of importance to synthesize lexeme
-leading to the generation in *musician* grammar.
+leading to the generation in *musician* grammar. The phrase token node is temporarily EXPERIMENTAL in house.
 
 ## Install
 (Scaffolding..)
