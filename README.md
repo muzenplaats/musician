@@ -4,6 +4,9 @@ A cross-plateform musical app for performances in the treasurable 5000+ scales
 ## Slogant
 Surrander experiments
 
+## (Notice)
+The content is not well-prepared and there is not any experiment yet.
+
 ## Introduction
 This repository is currently in the mode for testing purposes, hoping it to be built up.
 The reasons for the repo came from the embarrassment to a project called [musje](https://github.com/muzenplaats/musje),
