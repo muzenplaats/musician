@@ -9,7 +9,7 @@ This repository is currently in the mode for testing purposes, hoping it to be b
 The reasons for the repo came from the embarrassment to a project called [musje](https://github.com/muzenplaats/musje),
 in which the Numbered Musical Notation is quite successful engaged with the Western Sheet Music.
 However, a developer there recently atempted to extent it to some ancient Chinese sheet music with difficulties mainly because
-the *musje* grammar could not be gracefully expaned to produce the target in the larger domain range as of **Musician**.
+the *musje* grammar could not be gracefully expaned to produce targets in the larger domain range as of **Musician**.
 The developers here are also interested to embrrace the fruitful, global (predominantly in the West) and 
 [more than five thousand scales](https://www.huygens-fokker.org/scala/).
 One might understood that, in *musje*, the data model is based on MusicXML 3.1 which has limitations to describe the scales
