@@ -10,12 +10,13 @@ The reasons for the repo came from the embarrassment to a project called [musje]
 in which the Numbered Musical Notation is quite successful engaged with the Western Sheet Music.
 However, a developer there recently atempted to extent it to some ancient Chinese sheet music with difficulties mainly because
 the *musje* grammar could not be gracefully expaned to produce targets in the larger domain range as of **Musician**.
-The developers here are also interested to embrrace the fruitful, global (predominantly in the West) and 
+The developers here are also interested to embrrace the fruitful and global (predominantly in the West) 
 [more than five thousand scales](https://www.huygens-fokker.org/scala/).
 One might understood that, in *musje*, the data model is based on MusicXML 3.1 which has limitations to describe the scales
 for both goals here.
 
-It is the major method, physically in frequencies, by using the **Keywords**: Key/Transpose/Step/Pitch/Alter(Accidental)/Tune(Detune)/(Or possibly other new modifiers) to
+It is the major method, physically in frequencies, by using the
+**Keywords**: Key/Transpose/Step/Pitch/Alter(Accidental)/Tune(Detune)/(Or possibly other new modifiers) to
 implement it in music theory and industry so far.
 These are perfectlly modelled in 12-TET, pure/just intonation or so, but it likely
 became a burden to be beatifully designed in *Musician*.
