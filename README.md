@@ -1,5 +1,5 @@
 # Musician (v0.1.1)
-A cross-plateform musical app for performing in the treasurable 5000+ scales
+A cross-plateform musical app for performances in the treasurable 5000+ scales
 
 ## Slogant
 Surrander experiments
