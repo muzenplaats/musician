@@ -1,0 +1,2 @@
+# Global product specification
+(Scaffolding)
