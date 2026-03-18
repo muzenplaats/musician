@@ -19,9 +19,11 @@ It is the major method, physically in frequencies, by using the
 **Keywords**: Key/Transpose/Step/Pitch/Alter(Accidental)/Tune(Detune)/(Or possibly other new attributes),
 for designating in the music theory and to implement it in music industry so far.
 These are perfectlly modelled in twelve equal temperament (TET), pure/just intonation or so, but it likely
-became a burden to be beatifully designed in *Musician*.
-They are of course the building blocks but
-how to do it neat is the main interest.
+became a burden to be beatifully performed in *Musician*.
+They are of course the building blocks but how to do it neat is the main interest.
+The design patterns as in those keywords could be valued.
+For qualification of the beauty, the nomenclature in terms of *token node* shall be of importance to synthesize lexeme
+leading to generate it in *musician* grammar.
 
 ## Install
 (Scaffolding..)
