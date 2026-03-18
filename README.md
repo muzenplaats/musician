@@ -1,5 +1,5 @@
 # Musician (v0.1.1)
-A webapp with musical ingredients for music lovers *(to be changed later)*
+*To be described (Old version: A webapp with musical ingredients for music lovers)*
 
 ## Slogant
 Surrander experiments
