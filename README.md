@@ -16,8 +16,8 @@ One might understood that, in *musje*, the data model is based on MusicXML 3.1 w
 for both goals here.
 
 It is the major method, physically in frequencies, by using the
-**Keywords**: Key/Transpose/Step/Pitch/Alter(Accidental)/Tune(Detune)/(Or possibly other new modifiers) to
-implement it in music theory and industry so far.
+**Keywords**: Key/Transpose/Step/Pitch/Alter(Accidental)/Tune(Detune)/(Or possibly other new modifiers),
+for designating in the music theory and to implement it in music industry so far.
 These are perfectlly modelled in twelve equal temperament (TET), pure/just intonation or so, but it likely
 became a burden to be beatifully designed in *Musician*.
 They are of course the building blocks but
